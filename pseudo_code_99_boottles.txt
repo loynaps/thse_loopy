@@ -1,0 +1,11 @@
+PSEUDO-CODE for 99 bottles of Milk on the Wall
+
+for count starting at 99,
+		as long as there are some,
+		take one down
+				sing about the count of bottles on the wall
+
+
+for (initialization; termination; increment) {
+	//..
+}

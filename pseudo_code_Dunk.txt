@@ -1,0 +1,11 @@
+PSEUDO-DUNK wearing a for
+
+isDunked = nope
+
+for new attempt starting at 0 tries,
+		isDunked is nope AND TRIES ARE UNDER 3,
+		increase tries
+					isDunked = result of throwing ball
+
+
+	

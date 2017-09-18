@@ -1,0 +1,15 @@
+PSEUDO CODE - Prizes
+
+while prizes are left
+
+		is here = ask "Is attendee present?"
+
+		if not here
+
+				try again
+
+		shirt size = ask "What size?"
+		
+		give away prize
+
+	
